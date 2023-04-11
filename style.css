@@ -1,0 +1,80 @@
+body{
+    font: normal 15pt Arial;
+    background: rgba(63, 81, 247, 0.849);
+}
+header{
+    color: white;
+    text-align: center;
+    font-size: 22pt;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    justify-content: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.388);
+    
+    
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+div#horario{
+    text-align: center;
+}
+img#imagem{
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    display: block;
+    margin: 0px auto;
+
+}
+form {
+    text-align: center;
+}
+input#login_input{
+    width: 300px;
+    height: 20px;
+    background: transparent;
+    border-radius: 10px;
+
+}
+input#senha_input{
+    width: 300px;
+    height: 20px;
+    background-color: transparent;
+    border-radius: 10px;
+
+}
+input#acessar{
+    background: transparent;
+    width: 120px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px black;
+
+}
+input#nome{
+    width: 300px;
+    height: 20px;
+    background-color: transparent;
+    border-radius: 10px;
+
+}
+input#email_input{
+    width: 300px;
+    height: 20px;
+    background-color: transparent;
+    border-radius: 10px;
+
+}
+input#outro{
+    background: transparent;
+    width: 120px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px black;
+}
